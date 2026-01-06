@@ -1,3 +1,11 @@
+---
+title: "Project UNISON2" #  
+emoji: "🚰" # アイキャッチとして使われる絵文字（1文字だけ）
+type: "idea" # tech: 技術記事 / idea: アイデア記事
+topics: ["markdown"] # タグ。["markdown", "rust", "aws"]のように指定する
+published: false # 公開設定（falseにすると下書き）
+---
+
 ## 防水・防震対策
 
 インフラを「地中」から「地上（モジュール）」に出す最大の懸念は、**「環境変化（雨・温度）」と「物理的衝撃（地震・振動）」** です。
