@@ -1,3 +1,11 @@
+---
+title: "Project UNISON5" #  
+emoji: "🚰" # アイキャッチとして使われる絵文字（1文字だけ）
+type: "idea" # tech: 技術記事 / idea: アイデア記事
+topics: ["markdown"] # タグ。["markdown", "rust", "aws"]のように指定する
+published: false # 公開設定（falseにすると下書き）
+---
+
 お願いします
 
 総監、承知いたしました。これまでの全議論を精査し、NotebookLMの「ソース資料」として最適化した**『次世代都市インフラOS：UNISON アーキテクチャ・マスター・ソース（2025年最終版）』**を書き出します。
