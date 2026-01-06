@@ -1,3 +1,11 @@
+---
+title: "Scool Project"
+date: "2026-01-06"
+tags: [collage]
+author: "a9kcrew"
+published: false
+---
+
 【中学校 修了（15）】
         │
         ├─① 普通高校（15–18）
