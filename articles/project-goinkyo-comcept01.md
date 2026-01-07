@@ -1,3 +1,10 @@
+---
+title: "Project GoInkyo01" #  
+type: "idea" # tech: 技術記事 / idea: アイデア記事
+topics: ["markdown"] # タグ。["markdown", "rust", "aws"]のように指定する
+published: false # 公開設定（falseにすると下書き）
+---
+
 # (part A)1. 「昭和の美しい平屋街」の再現
 新築のプレハブを並べるのではなく、例えば以下のような景観を目指します。
 
