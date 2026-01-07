@@ -1,3 +1,10 @@
+---
+title: "Project GoInkyo01" #  
+type: "idea" # tech: 技術記事 / idea: アイデア記事
+topics: ["markdown"] # タグ。["markdown", "rust", "aws"]のように指定する
+published: false # 公開設定（falseにすると下書き）
+---
+
 # ただ働かないのではなく、必要に応じて役割も働くもあり、生きがいのため
 
 うん、その一言で**一番避けてきた核心**に触れてる。
